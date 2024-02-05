@@ -17,6 +17,5 @@ Text Vectorization:
 Use the TfidfVectorizer to convert the text data into numerical format suitable for machine learning.
 PassiveAggressiveClassifier:
 Build a machine learning model using the PassiveAggressiveClassifier. This algorithm is particularly effective for online learning and text classification tasks.
-
 3. Model Evaluation
 To evaluate the model's performance, we create a confusion matrix and measure its accuracy. The confusion matrix helps us understand true positives, true negatives, false positives, and false negatives.
